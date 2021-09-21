@@ -1,8 +1,15 @@
 
+<<<<<<< HEAD
 1
 2
 three
 four
+=======
+one
+two
+3
+4
+>>>>>>> bc44872954a44669d121ea6aa38ad2bf669a871b
 five
 sex
 seven
